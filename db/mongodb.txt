@@ -1,0 +1,16 @@
+collections
+============
+1. themes
+2. users 
+
+themes
+======
+{"_id":{"$oid":"5ea91c06dd5c9a0ae058d7ca"},"id_theme":1,"background_color":"red","text_color":"black"}
+{"_id":{"$oid":"5ea91c6fdd5c9a0ae058d7cb"},"id_theme":2,"background_color":"green","text_color":"red"}
+{"_id":{"$oid":"5ea91c91dd5c9a0ae058d7cc"},"id_theme":3,"background_color":"yellow","text_color":"green"}
+
+users
+=====
+{"_id":{"$oid":"5ea9b79cc9432e7417439784"},"id_user":1,"name":"tsteps one","content":"Sample content from user one and Theme 2","id_theme":2}
+{"_id":{"$oid":"5ea9b7f7c9432e7417439785"},"id_user":2,"name":"tsteps two","content":"Sample content from user one and Theme 2","id_theme":3}
+{"_id":{"$oid":"5ea9b808c9432e7417439786"},"id_user":3,"name":"tsteps three","content":"Sample content from user one and Theme 2","id_theme":1}
