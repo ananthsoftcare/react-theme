@@ -9,15 +9,23 @@ MongoDB collections : https://github.com/ananthsoftcare/react-theme/blob/master/
 2. switch to directory 
 
 3. cd server
+   
    npm install
+   
    npm run start
+   
    Server link :  http://localhost:3000/ 
-   to get user detail: http://localhost:3000/api/user/<id>
-   to get theme detail : http://localhost:3000/api/theme/<id>
+   
+   to get user detail: http://localhost:3000/api/user/1
+   
+   to get theme detail : http://localhost:3000/api/theme/1
    
 4. cd client
+
    npm install
+   
    npm run start
+   
    Client link : http://localhost:3001/
 
 
@@ -32,8 +40,8 @@ http://localhost:3001/ switch the user and the particular theme will be loaded d
 2. If database of the user, has theme 3 for the page, then the user should see theme 3 for the particular user
 Add OpenGraph MetaTags to website dynamically, such that all the data should come from db. When you share the link on any social media facebook/twitter, image i.e. loaded from database should be visible in share post.
 
-<yet to work on this>
+   yet to work on this
 
 3. Create one example component in which will share components (HTML/CSS/JS) with one other component in React.
 
-<Dropdown> (https://github.com/ananthsoftcare/react-theme/blob/master/client/src/components/common/dropdown.js) is the component can be shared with other components. Example (https://github.com/ananthsoftcare/react-theme/blob/master/client/src/components/theme.js#L50) 
+   Dropdown (https://github.com/ananthsoftcare/react-theme/blob/master/client/src/components/common/dropdown.js) is the component can be shared with other components. Example (https://github.com/ananthsoftcare/react-theme/blob/master/client/src/components/theme.js#L50) 
