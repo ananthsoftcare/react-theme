@@ -34,7 +34,7 @@ MongoDB collections : https://github.com/ananthsoftcare/react-theme/blob/master/
 1. Consider a Component has html/css/js pages. All the HTML/CSS/JS should load dynamically for component based on data in database.
 Say Component A has 3 Themes – theme 1, theme 2, theme 3
 
-http://localhost:3001/ switch the user and the particular theme will be loaded depends upon user selection
+   http://localhost:3001/ switch the user and the particular theme will be loaded depends upon user selection
 
 
 2. If database of the user, has theme 3 for the page, then the user should see theme 3 for the particular user
