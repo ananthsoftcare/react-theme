@@ -40,7 +40,7 @@ Say Component A has 3 Themes – theme 1, theme 2, theme 3
 2. If database of the user, has theme 3 for the page, then the user should see theme 3 for the particular user
 Add OpenGraph MetaTags to website dynamically, such that all the data should come from db. When you share the link on any social media facebook/twitter, image i.e. loaded from database should be visible in share post.
 
-   yet to work on this
+   Please refer https://github.com/ananthsoftcare/react-share
 
 3. Create one example component in which will share components (HTML/CSS/JS) with one other component in React.
 
